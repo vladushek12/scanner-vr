@@ -162,11 +162,7 @@
     },
     "com.unity.shadergraph": {
       "version": "16.0.5",
-<<<<<<< Updated upstream
       "depth": 1,
-=======
-      "depth": 0,
->>>>>>> Stashed changes
       "source": "builtin",
       "dependencies": {
         "com.unity.render-pipelines.core": "16.0.5",
